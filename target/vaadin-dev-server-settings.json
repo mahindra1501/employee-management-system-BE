@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/home/mahendrak/Project/vsm_crud/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/mahendrak/Project/vsm_crud/target/flow-frontend",
+  "staticOutput": "/home/mahendrak/Project/vsm_crud/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/home/mahendrak/Project/vsm_crud/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "SpringWithMongoBd",
+  "clientServiceWorkerSource": "/home/mahendrak/Project/vsm_crud/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
